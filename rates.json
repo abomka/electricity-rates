@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "last_updated": "2024-05-22",
+  "news_ar": "تم تحديث أسعار الشرائح وفقاً لآخر التعديلات الرسمية لعام 2024.",
+  "news_en": "Rates have been updated according to the latest official 2024 adjustments.",
+  "domestic": {
+    "thresholds": [50, 100, 200, 350, 650, 1000],
+    "rates": [0.68, 0.78, 0.95, 1.55, 1.95, 2.10, 2.58],
+    "service_fees": [1.0, 2.0, 6.0, 11.0, 15.0, 25.0, 40.0]
+  },
+  "commercial": {
+    "thresholds": [100, 250, 600, 1000],
+    "rates": [1.62, 2.16, 2.64, 2.74, 2.79],
+    "service_fees": [5.0, 15.0, 20.0, 25.0, 40.0]
+  },
+  "coded": {
+    "rate": 2.74,
+    "service_fee": 9.0
+  }
+}
