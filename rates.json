@@ -1,16 +1,16 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2026-08-04",
-  "news_ar": "تم تحديث أسعار الكهرباء وفقاً للتعريفة الرسمية المعتمدة من أغسطس 2024.",
-  "news_en": "Electricity rates updated according to the official tariff effective August 2024.",
+  "news_ar": "تم تحديث أسعار الكهرباء وفقاً للتعريفة الرسمية أغسطس 2026 — تثبيت الشريحة الأولى وزيادة باقي الشرائح.",
+  "news_en": "Electricity rates updated per official August 2026 tariff — first tier unchanged, others increased.",
   "domestic": {
-    "thresholds": [50, 100, 650, 1000],
-    "rates": [0.68, 0.78, 0.95, 1.55, 1.95, 2.10, 2.23],
+    "thresholds": [50, 100, 200, 350, 650, 1000],
+    "rates": [0.68, 0.87, 1.06, 1.74, 2.18, 2.35, 2.89],
     "service_fees": [1.0, 2.0, 6.0, 11.0, 15.0, 25.0, 40.0]
   },
   "commercial": {
     "thresholds": [100, 250, 600, 1000],
-    "rates": [0.85, 1.68, 2.20, 2.27, 2.33],
+    "rates": [1.62, 2.00, 2.64, 2.74, 2.74],
     "service_fees": [5.0, 15.0, 20.0, 25.0, 40.0]
   },
   "coded": {
